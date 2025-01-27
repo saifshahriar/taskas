@@ -1,5 +1,5 @@
 # taskas
-A simple task manager app intend to run in your browser.
+A simple task manager app intended to run in your browser.
 
 ## How to run
 ### One-click run
