@@ -2,6 +2,10 @@
 A simple task manager app intend to run in your browser.
 
 ## How to run
+### One-click run
+Visit the [vercel app](https://taskas.vercel.app/)
+
+### Run locally
 1. Simply clone the repo
 
 ```
